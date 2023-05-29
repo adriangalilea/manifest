@@ -1,5 +1,6 @@
 # manifest
-Speech to Stock Photography in your Clipboard.
+Speech to Stock Photography
+From anywhere(with a shortcut) to your Clipboard.
 
 <img width="329" alt="image" src="https://github.com/adriangalilea/manifest/assets/90320947/775a4f0c-ff89-4b35-841e-1ac81c894817">
 
