@@ -14,6 +14,14 @@
 		3A3CF3C52A23A5180008BBF1 /* manifestTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A3CF3C42A23A5180008BBF1 /* manifestTests.swift */; };
 		3A3CF3CF2A23A5180008BBF1 /* manifestUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A3CF3CE2A23A5180008BBF1 /* manifestUITests.swift */; };
 		3A3CF3D12A23A5180008BBF1 /* manifestUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A3CF3D02A23A5180008BBF1 /* manifestUITestsLaunchTests.swift */; };
+		3A3CF3DE2A23A6210008BBF1 /* FloatingPanelView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A3CF3DD2A23A6210008BBF1 /* FloatingPanelView.swift */; };
+		3A3CF3E02A23A8850008BBF1 /* HotkeyMonitor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A3CF3DF2A23A8850008BBF1 /* HotkeyMonitor.swift */; };
+		3A3CF3E22A23A9630008BBF1 /* AudioRecorder.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A3CF3E12A23A9630008BBF1 /* AudioRecorder.swift */; };
+		3A3CF3E62A23B20D0008BBF1 /* OpenAIWhisper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A3CF3E52A23B20D0008BBF1 /* OpenAIWhisper.swift */; };
+		3A3CF3E92A24092D0008BBF1 /* PhotoSearcher.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A3CF3E82A24092D0008BBF1 /* PhotoSearcher.swift */; };
+		3A3CF3EB2A2418C80008BBF1 /* TranslucentWindow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A3CF3EA2A2418C80008BBF1 /* TranslucentWindow.swift */; };
+		3A3CF3ED2A241A140008BBF1 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A3CF3EC2A241A140008BBF1 /* AppDelegate.swift */; };
+		3A3CF3EF2A241FD80008BBF1 /* VisualEffect.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A3CF3EE2A241FD80008BBF1 /* VisualEffect.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,6 +53,15 @@
 		3A3CF3CA2A23A5180008BBF1 /* manifestUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = manifestUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3A3CF3CE2A23A5180008BBF1 /* manifestUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = manifestUITests.swift; sourceTree = "<group>"; };
 		3A3CF3D02A23A5180008BBF1 /* manifestUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = manifestUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		3A3CF3DD2A23A6210008BBF1 /* FloatingPanelView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FloatingPanelView.swift; sourceTree = "<group>"; };
+		3A3CF3DF2A23A8850008BBF1 /* HotkeyMonitor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HotkeyMonitor.swift; sourceTree = "<group>"; };
+		3A3CF3E12A23A9630008BBF1 /* AudioRecorder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AudioRecorder.swift; sourceTree = "<group>"; };
+		3A3CF3E52A23B20D0008BBF1 /* OpenAIWhisper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OpenAIWhisper.swift; sourceTree = "<group>"; };
+		3A3CF3E72A23DE740008BBF1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		3A3CF3E82A24092D0008BBF1 /* PhotoSearcher.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoSearcher.swift; sourceTree = "<group>"; };
+		3A3CF3EA2A2418C80008BBF1 /* TranslucentWindow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TranslucentWindow.swift; sourceTree = "<group>"; };
+		3A3CF3EC2A241A140008BBF1 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		3A3CF3EE2A241FD80008BBF1 /* VisualEffect.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VisualEffect.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -95,11 +112,20 @@
 		3A3CF3B12A23A5170008BBF1 /* manifest */ = {
 			isa = PBXGroup;
 			children = (
+				3A3CF3E72A23DE740008BBF1 /* Info.plist */,
 				3A3CF3B22A23A5170008BBF1 /* manifestApp.swift */,
 				3A3CF3B42A23A5170008BBF1 /* ContentView.swift */,
 				3A3CF3B62A23A5180008BBF1 /* Assets.xcassets */,
 				3A3CF3B82A23A5180008BBF1 /* manifest.entitlements */,
 				3A3CF3B92A23A5180008BBF1 /* Preview Content */,
+				3A3CF3DD2A23A6210008BBF1 /* FloatingPanelView.swift */,
+				3A3CF3DF2A23A8850008BBF1 /* HotkeyMonitor.swift */,
+				3A3CF3E12A23A9630008BBF1 /* AudioRecorder.swift */,
+				3A3CF3E52A23B20D0008BBF1 /* OpenAIWhisper.swift */,
+				3A3CF3E82A24092D0008BBF1 /* PhotoSearcher.swift */,
+				3A3CF3EA2A2418C80008BBF1 /* TranslucentWindow.swift */,
+				3A3CF3EC2A241A140008BBF1 /* AppDelegate.swift */,
+				3A3CF3EE2A241FD80008BBF1 /* VisualEffect.swift */,
 			);
 			path = manifest;
 			sourceTree = "<group>";
@@ -259,8 +285,16 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3A3CF3DE2A23A6210008BBF1 /* FloatingPanelView.swift in Sources */,
+				3A3CF3EB2A2418C80008BBF1 /* TranslucentWindow.swift in Sources */,
+				3A3CF3EF2A241FD80008BBF1 /* VisualEffect.swift in Sources */,
 				3A3CF3B52A23A5170008BBF1 /* ContentView.swift in Sources */,
+				3A3CF3ED2A241A140008BBF1 /* AppDelegate.swift in Sources */,
+				3A3CF3E62A23B20D0008BBF1 /* OpenAIWhisper.swift in Sources */,
+				3A3CF3E02A23A8850008BBF1 /* HotkeyMonitor.swift in Sources */,
 				3A3CF3B32A23A5170008BBF1 /* manifestApp.swift in Sources */,
+				3A3CF3E92A24092D0008BBF1 /* PhotoSearcher.swift in Sources */,
+				3A3CF3E22A23A9630008BBF1 /* AudioRecorder.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -417,6 +451,8 @@
 				DEVELOPMENT_ASSET_PATHS = "\"manifest/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = manifest/Info.plist;
+				INFOPLIST_KEY_NSMicrophoneUsageDescription = "This needs audio input as is the default interface.";
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphoneos*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphonesimulator*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphoneos*]" = YES;
@@ -453,6 +489,8 @@
 				DEVELOPMENT_ASSET_PATHS = "\"manifest/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = manifest/Info.plist;
+				INFOPLIST_KEY_NSMicrophoneUsageDescription = "This needs audio input as is the default interface.";
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphoneos*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphonesimulator*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphoneos*]" = YES;
