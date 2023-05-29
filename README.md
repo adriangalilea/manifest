@@ -1,13 +1,20 @@
 # manifest
-<img width="423" alt="image" src="https://github.com/adriangalilea/manifest/assets/90320947/e00ed983-eda8-47e1-bf61-8f15449cab4a">
+Speech to Stock Photography in your Clipboard.
 
-Record your audio.
-🗣️ "A storm with lightning."
+<img width="329" alt="image" src="https://github.com/adriangalilea/manifest/assets/90320947/775a4f0c-ff89-4b35-841e-1ac81c894817">
 
 
-<img width="382" alt="image" src="https://github.com/adriangalilea/manifest/assets/90320947/b3a1f254-c21c-40d2-94a7-90b7d30b33ff">
 
-And it's directly copied to your clipboard.
+## 🗣️
+"Una tormenta con rayos." -> Wishper API translate -> "A storm with lightning."
+
+<img width="223" alt="image" src="https://github.com/adriangalilea/manifest/assets/90320947/12174272-e615-49e8-991c-ea74d500111e">
+
+
+## 📋
+Unsplash API -> Clipboard
+
+<img width="324" alt="image" src="https://github.com/adriangalilea/manifest/assets/90320947/7c7843b0-6e97-4a23-bb08-879b333254be">
 
 # Requirements.
 - MacOS
@@ -15,6 +22,6 @@ And it's directly copied to your clipboard.
 - Unsplash API
 
 # Future ideas
-- Manifest memes
-- Manifest Stable diffusion
-- Keyboard shortcut working again 😰
+- [] Manifest memes
+- [] Manifest Stable diffusion
+- [] Keyboard shortcut working again 😰
