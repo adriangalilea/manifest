@@ -7,13 +7,14 @@ From anywhere(with a shortcut) to your Clipboard.
 
 
 ## 🗣️
-"Una tormenta con rayos." -> Wishper API translate -> "A storm with lightning."
+1. User audio in any language: __"Una tormenta con rayos."__ 
+2. [Transparent] Wishper API translate 
+3. [Transparent] Api output get's stored."A storm with lightning."
 
 <img width="223" alt="image" src="https://github.com/adriangalilea/manifest/assets/90320947/12174272-e615-49e8-991c-ea74d500111e">
 
-
-## 📋
-Unsplash API -> Clipboard
+4. [Transparent] Query is sent to Unsplash API
+5. [Transparent] Result is copied into the clipboard
 
 <img width="324" alt="image" src="https://github.com/adriangalilea/manifest/assets/90320947/7c7843b0-6e97-4a23-bb08-879b333254be">
 
