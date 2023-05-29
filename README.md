@@ -25,3 +25,9 @@ Unsplash API -> Clipboard
 - [] Manifest memes
 - [] Manifest Stable diffusion
 - [] Keyboard shortcut working again 😰
+
+# Disclaimer
+![image](https://github.com/adriangalilea/manifest/assets/90320947/e6ff0012-2c18-4624-8ded-ea060f615b55)
+It's my first macOS app.
+
+Just a proof of concept.
